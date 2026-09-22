@@ -59,3 +59,11 @@ AI Agent
               │
               ▼
         Result / Response
+
+Author
+
+Morgan Anderson
+
+AI Engineer • Data Scientist • Full-Stack Developer
+
+Building intelligent systems, AI-powered applications, automation platforms, and data-driven software.
